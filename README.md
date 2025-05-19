@@ -1,4 +1,4 @@
-# OpenMP官方仓库中文改版
+# OpenMP官方示例仓库中文改版
 
 官方使用介绍见 [openmp-examples.tex](openmp-examples.tex)  
 （LaTeX未编译成功，可通过AI概括内容）
